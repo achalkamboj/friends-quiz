@@ -28,6 +28,15 @@ var questions = [ {
 }, {
   question : "Where does Achal live? ",
   answer : "Ajmer"
+},{
+  question : "What is the name of Achal's School? ",
+  answer : "St. Anselms"
+},{
+  question : "What is the name of Achal's college? ",
+  answer : "SRM"
+},{
+  question : "Who is Achal's Best Friend? ",
+  answer : "Brownie"
 }];
 
 for(var i=0;i<questions.length;i++)
